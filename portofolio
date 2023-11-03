@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="porto.css">
+    <title>Sneha - Portfolio</title>
+</head>
+<body>
+    <header>d:\Sneha\Downloads\web.jpeg
+        <div class="container">
+            <h1>Sneha</h1>
+            <img src="login3.jpg" alt="Image">
+        </div>
+    </header>
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About Me</h2>
+            <img src="sng.jpg" alt="Image">
+            <p>I'm a 3rd year Computer science student studying in SJCE college,Mysore</p>
+        </div>
+    </section>
+
+    <section id="skills" class="section">
+        <div class="container">
+            <h2>Skills</h2>
+            <ul>
+                <li>Web Development</li>
+                <li>Problem Solving</li>
+                <li>JavaScript</li>
+                <li>C programming</li>
+                <li>Project Management</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="projects" class="section">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>University Management System</h3>
+                <img src="university.jpeg" alt="UMS">
+            </div>
+            <div class="project">
+                <h3> Sentimental Analysis</h3>
+                <img src="sentiment.jpeg" alt="SA">
+            </div>
+           
+        </div>
+    </section>
+
+    <section id="resume" class="section">
+        <div class="container">
+            <h2>Resume</h2>
+            <a href="Blue and white Simple Photographer Resume(2).pdf" download>Download Resume (PDF)</a>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>Email: snehang2021@email.com</p>
+            <p>Phone: 6361028272</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 Sneha</p>
+            <ul>
+                <li><a href="https://linkedin.com/in/sneha-n-g-32a815275">LinkedIn</a></li>
+                <li><a href="https://github.com/Sneha753">GitHub</a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>
